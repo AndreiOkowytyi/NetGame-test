@@ -18,7 +18,7 @@ int main() {
 
 		Trasform transform;
 
-		if (data.size() < 4) {
+		if (data.size() > 2) {
 
 			std::vector<int> vec_unique_elements;
 
